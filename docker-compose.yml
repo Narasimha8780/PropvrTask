@@ -2,7 +2,7 @@ version: '1.25.0'
 
 services:
   web:
-    image: propvertask:latest
+    image: narasimha8780/propvertask:latest
     ports:
       - "80:80"
     depends_on:
